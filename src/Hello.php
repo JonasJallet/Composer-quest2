@@ -1,5 +1,4 @@
 <?php
-// Hello.php
 namespace App;
 
 class Hello
