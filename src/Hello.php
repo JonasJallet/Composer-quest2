@@ -1,11 +1,11 @@
 <?php
+// Hello.php
+namespace App;
 
-  // Hello.php
-
-    class Hello
+class Hello
+{
+    public function talk(): string
     {
-        public function talk(): string
-        {
-            return "Hello World !";
-        }
+        return "Hello World !";
     }
+}
