@@ -1,0 +1,10 @@
+{
+    "name": "hello/app",
+    "description": "Wild composer quest",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "require": {}
+}
